@@ -1,5 +1,5 @@
 ## 👋 Hello, Friend
-<p>Teacher, Developer, Computer Technician, Enthusiast on Open Source, Gaming and Cybersecurity.</p>
+<p>Web Developer, Computer Technician, Corporate Administrator, IT Enthusiast, Gaming and Cybersecurity.</p>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasfrag&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" />
